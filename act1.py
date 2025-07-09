@@ -20,7 +20,7 @@ MAGENTA = pygame.Color('magenta')
 ORANGE = pygame.Color('orange')
 WHITE = pygame.Color('white')
 
-
+   
 # Sprite class representing the moving object
 class Sprite(pygame.sprite.Sprite):
 
